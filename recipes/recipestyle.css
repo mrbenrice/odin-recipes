@@ -1,0 +1,47 @@
+body{
+    background-color: lightpink;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height:auto;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+div{
+    color: black;
+    background-color: pink;
+    border: 2px solid white;
+    border-style: outset;
+    margin-bottom: 5px;
+    padding-bottom: 4%;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+a{
+    color: black;
+    border: 2px solid red;
+    border-style: outset;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}

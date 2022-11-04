@@ -6,4 +6,6 @@ My ultimate goal of the first half (html side) of this project is to memorise to
 
 Update: I've submitted the first part of the assignment - I will clea up the index.html file when I'm performing the CSS part of the assignment. I have very quickly picked up the html language and have thoroughly enjoyed this part of the assignment.
 
+Update 2: Now finished the CSS part of the assignment! I've really enjoyed this and it feels a very natural process. This has me sucked in to front end devlopment!
+
 All recipes have been adapted from BBC good foods, with my own twist. 
